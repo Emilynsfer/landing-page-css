@@ -157,7 +157,7 @@ footer a {
 
 
 /* Estilos para telas grandes (desktops) */
-@media (min-width: 1024px) {
+@media screen and (min-width: 1024px) {
     body {
       display: grid;
       grid-template-columns: 1fr; /* Layout em 1 coluna */
@@ -165,16 +165,21 @@ footer a {
   }
   
   /* Estilos para tablets */
-  @media (min-width: 768px) and (max-width: 1023px) {
+  @media screen and (min-width: 768px) and (max-width: 1023px) {
     body {
       grid-template-columns: 1fr; /* Layout em 1 coluna */
     }
   }
   
   /* Estilos para dispositivos móveis */
-  @media (max-width: 800px) {
+  @media screen and (max-width: 800px) {
     body {
       grid-template-columns: 1fr; /* Layout em 1 coluna */
+    }
+
+    .finalizando img {
+        width: 500px;
+        height: 300px;
     }
 }
   
