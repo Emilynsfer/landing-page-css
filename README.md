@@ -17,7 +17,7 @@
 <p>Já fazia tempo desde a última vez que eu desenvolvi algum projeto focado no front-end. Além disso, eu também aprofundei meus estudos em CSS, então eu revisei conceitos já conhecidos por mim e conteúdos novos. Relembrar o desenvolvimento front-end foi um pouco desafiador, mas percebi que tive muito mais facilidade do que nos meses anteriores. Fazer esse projeto foi muito satisfatório, e o resultado final me deixou satisfeita. 
 
 <h3>Conclusão</h3>
-<p>Práticar é sempre bom e aprofundar os estudos também é importante. Espero que gostem do resultado final e se possível, venham fazer parte da DIO. </p>
+<p>Práticar é sempre bom e aprofundar os estudos também é importante. Espero que gostem do resultado final, e se possível, venham fazer parte da DIO. </p>
 
 <h3>Redes sociais:</h3>
 <p><strong>Linkedin:</strong> /in/emilynsfer013</p>
